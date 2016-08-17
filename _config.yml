@@ -1,0 +1,14 @@
+layout_spectrum: 0.551519472617656
+typography_spectrum: 0.9153938707895577
+color:
+  brandStrength: 0.6336955968290567
+  lightness: 0.5428234725259244
+  saturation: 0.14973714295774698
+  rhythmicContrast: 0.8623310448601842
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: intelygenz
